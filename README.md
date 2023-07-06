@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anon Bianco</h1>
-<h3 align="center">A passionate JAVA developer trained by ICT Academy's Youth Employability Skill Program.</h3>
+<h3 align="center">A motivated tech enthusiast with strong communication and problem-solving skills, possessing extensive knowledge in web development technologies such as HTML, CSS, Java, Spring Boot, and MySQL. Recently completed a comprehensive 6-month Java Full Stack course at Besant Technologies in Velachery, Chennai, further enhancing my practical skills. Seeking an opportunity to leverage my knowledge, passion, and commitment to contribute as a valued member of a dynamic team.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anon-bianco&label=Profile%20views&color=0e75b6&style=flat" alt="anon-bianco" /> </p>
 
